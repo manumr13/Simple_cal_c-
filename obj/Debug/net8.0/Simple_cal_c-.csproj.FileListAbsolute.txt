@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\bin\Debug\net8.0\Simple_cal_c-.exe
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\bin\Debug\net8.0\Simple_cal_c-.deps.json
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\bin\Debug\net8.0\Simple_cal_c-.runtimeconfig.json
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\bin\Debug\net8.0\Simple_cal_c-.dll
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\bin\Debug\net8.0\Simple_cal_c-.pdb
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.AssemblyInfo.cs
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.dll
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\refint\Simple_cal_c-.dll
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.pdb
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\Simple_cal_c-.genruntimeconfig.cache
+C:\Users\DELL\Desktop\new_c_sharp\Simple_cal_c-\obj\Debug\net8.0\ref\Simple_cal_c-.dll
